@@ -1,0 +1,92 @@
+.sai{
+    text-align: left;
+    background-color:blanchedalmond ;
+}
+
+#logo1{
+    background-image: url(aa.jpg);
+    font-size: 20px;
+    font-weight: inherit;
+    padding: 25px;
+    background-color: grey;
+    color: rgb(2, 53, 36);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: cursive;
+}
+.siz{
+    text-align: right;
+    float:right;
+   list-style-type:none;
+   margin-top:35px;
+   font-size: 25px;
+}
+.siz a
+{
+ display: inline-block;
+ text-decoration: none;
+ color: rgb(211, 134, 18);
+ padding: 5px 20px;
+ transition: 0.9s ease;
+}
+.siz a:hover{
+    background-color: skyblue;
+}
+#logo2{
+    background-image: url(bbb.jpg);
+    background-size: 100%;
+    background-position: right;
+    padding: 25px;
+    background-color: blanchedalmond;
+    color: rgb(4, 59, 29);
+    background-size: cover;
+    background-attachment: fixed;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: cursive;
+}
+#logo3{
+    background-image: url(c.jpg);
+    background-size: 90%;
+    padding: 25px;
+    background-position: center;
+    color: rgb(4, 94, 19);
+    background-attachment: fixed;
+    font-family: cursive;
+    font-size: 25px;
+}
+#logo4{
+    background-image: url(d.jpg);
+    background-size: 90%;
+    padding: 25px;
+    background-color: grey;
+    color: rgb(3, 77, 19);
+    background-attachment: fixed;
+    font-family: cursive;
+    font-size: 25px;
+}
+#logo5{
+    background-image: url(ee.jpg);
+    background-size: 750px;
+    padding: 25px;
+    color: rgb(87, 54, 4);
+    background-attachment: fixed;
+    font-family: cursive;
+    font-size: 25px;
+}
+#logo6{
+    background-image: url(k.jpg);
+    background-size:auto ;
+    padding: 25px;
+    color: rgb(73, 47, 7);
+    background-attachment: fixed;
+    font-family: cursive;
+    font-size: 25px;
+}
+.tab{
+    background-color: blanchedalmond;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+}
